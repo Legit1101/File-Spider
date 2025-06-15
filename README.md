@@ -15,6 +15,15 @@ It’s a helpful tool for bug bounty hunters, penetration testers, or anyone who
 * Allows multithreading (with multiple workers) for faster scanning.
 * Measures execution time for the scan.
 
+## File Types Supported:
+
+- pdf, txt, png, jpg, jpeg, gif, svg
+- zip, tar, gz
+- xls, xlsx, doc, docx, ppt, pptx
+- json, xml, csv, msg, rtf, dat, apk, exe
+- wav, mp3, webm, mov, mp4, ogg
+- css, js, cpp, c, php, go, rb, jar, iso, vtt, srt
+
 ## Installation
 
 1. Clone this repository:
