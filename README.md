@@ -1,8 +1,3 @@
-Bilkul — niche aapko **File Spider** tool ke liye complete `README.md` milta hai (ek hi console me).
-Aap isse directly copy-paste karke apne repository me rakh sakte ho.
-
----
-
 # File Spider — File Scraper Tool
 
 ## Description
