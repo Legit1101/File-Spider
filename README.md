@@ -1,5 +1,8 @@
 # File Spider — File Scraper Tool
 
+![File Spider](https://raw.githubusercontent.com/Legit1101/File-Spider/main/IMG_6149.PNG)
+
+
 ## Description
 
 File Spider is a tool designed to scan a website and extract files of various types (like PDF, TXT, PNG, DOC, ZIP, CSV, etc.).
