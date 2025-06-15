@@ -1,5 +1,7 @@
 # File Spider — File Scraper Tool
 
+![File Spider](https://raw.githubusercontent.com/Legit1101/File-Spider/main/images/git2.png)
+
 ![File Spider](https://raw.githubusercontent.com/Legit1101/File-Spider/main/IMG_6149.PNG)
 
 
